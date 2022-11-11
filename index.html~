@@ -1,0 +1,338 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta content="IE=7.0000" http-equiv="X-UA-Compatible">
+<title>Xiangnan He's Homepage</title>
+<meta name="description" content="Xiangnan He, PhD student in National University of Singapore, studying information retrieval, recommender systems and applied machine learning. Former intern at Google, Microsoft and Accenture.">
+<meta name="keywords" content="xiangnan he, nus, National University of Singapore, web search, information retrieval, text mining, machine learning, recommender systems, internet advertising">
+
+<link rel="stylesheet" type="text/css" href="./files/xiangnan.css">
+<!-- <script type="text/javascript" async="" src="./files/ga.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39532305-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> -->
+
+<style>@-moz-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@-webkit-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@-o-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}embed,object{animation-duration:.001s;-ms-animation-duration:.001s;-moz-animation-duration:.001s;-webkit-animation-duration:.001s;-o-animation-duration:.001s;animation-name:nodeInserted;-ms-animation-name:nodeInserted;-moz-animation-name:nodeInserted;-webkit-animation-name:nodeInserted;-o-animation-name:nodeInserted;}</style></head>
+
+
+<body>
+
+<div id="content">
+
+<div id="news">
+<h2>News</h2><br>
+<font size="3px">
+
+<b>05 July 2016</b><br>
+<span class="easylink">
+I am invited to be the reviewer of World Wide Web Journal (<a href="", target="_blank">WWWJ</a>).</b>. 
+</span><br><br>
+
+<b>22 June 2016</b><br>
+<span class="easylink">
+Two papers have been accepted to <a href="http://www.acmmm.org/2016/", target="_blank"> ACMMM 2016</a> as full research paper! One is about <b>contextual image-tweet recommendation</b> and the other is about <b>venue prediction from micr-videos</b>. 
+</span><br><br>
+
+<b>30 March 2016</b><br>
+<span class="easylink">
+Two papers have been accepted to <a href="http://sigir.org/sigir2016/", target="_blank"> SIGIR 2016</a> as full research paper! One is about <b>fast matrix factorization for implicit feedback</b> and the other is about <b>discrete hashing for collaborative filtering</b>. 
+</span><br><br>
+
+<b>24 March 2016</b><br>
+<span class="easylink">
+I have successfully defended my thesis and got the PhD degree! My thesis title is "Exploiting User Comments for Web Applications".
+</span><br><br>
+
+<b>7 March 2016</b><br>
+<span class="easylink">
+I am invited to be a program committee member in <a href="http://www.emnlp2016.net/" target="_blank">EMNLP 2016</a>.
+</span><br><br>
+
+<b>23 Jan. 2016</b><br>
+<span class="easylink">
+I am invited to be a program committee member (short paper) in <a href="http://sigir.org/sigir2016/" target="_blank">SIGIR 2016</a>.
+</span><br><br>
+
+<b>2 Dec. 2015</b><br>
+<span class="easylink">
+I am invited to be the reviewer of Journal of Information Science.
+</span><br><br>
+
+<b>22 Oct. 2015</b><br>
+<span class="easylink">I presented my work about review-aware recommendation at CIKM'15 Melbourne, check the slides <a href="./papers/cikm15-trirank-slides.pdf" target="_blank">here</a>!</span><br><br>
+
+<b>25 Sep. 2015</b><br>
+<span class="easylink">My summer internship in Google research successfully finishes. Many thanks to my hosts <a href="https://www.cs.umd.edu/~bhargav/" target="_blank">Bhargav Kanagal</a> and <a href="https://scholar.google.com.sg/citations?user=yR-ugIoAAAAJ&hl=en" target="_blank">Steffen Rendle</a>!</span><br><br>
+
+<b>16 Aug. 2015</b><br>
+<span class="easylink">I am invited to be a program committee member in <a href="http://www2016.ca/" target="_blank">WWW 2016 </a>.</span><br><br>
+</font>
+
+<b>4 Jul. 2015</b><br>
+<span class="easylink">Our full paper "Review-aware Explainable Recommendation by Modeling Aspects" is accepted by CIKM 2015.</span><br><br>
+</font>
+
+<b>22 Jun. 2015</b><br>
+<span class="easylink">I start my summer internship in Google MTV office. Enjoy the summer at the Bay area!</span><br><br>
+</font>
+
+<b>24 Apr. 2015</b><br>
+<span class="easylink">My thesis proposal "Mining Web 2.0 User Comments" passes. I am expected to graduate (submit thesis) on Dec. 2015. </span><br><br>
+</font>
+
+<b>3 Mar. 2015</b><br>
+<span class="easylink">I am invited to be the reviewer of Journal of Web Engineering. </span><br><br>
+</font>
+
+</div>
+
+<div id="left">
+<table style="background-color:white;">
+<tbody><tr nosave="">
+<td valign="CENTER">
+<img src="./files/xiangnan_profile_2015.png" height="300" align="left">
+</td>
+
+<td valign="CENTER" width="2%">
+</td>
+
+<td valign="CENTER" halign="LEFT">
+<font size="+0">
+<b><font size="+2">Xiangnan HE&nbsp;</font></b>
+<p style="margin-left:0px;">
+<img src="./files/name.png", height="60">
+</p><p style="margin-left:0px;">
+<b>Research Fellow</b>
+</p><p style="margin-left:0px;">
+<a href="http://lms.comp.nus.edu.sg/", target="_blank">Lab for Media Search</a><br/>
+<a href="https://www.comp.nus.edu.sg/", target="_blank">School of Computing</a><br/>
+<a href="http://www.nus.edu.sg", target="_blank">National University of Singapore</a><br/>
+</p><p style="margin-left:0px;">
+Computing 1, Computing Drive, Singapore 117417<br>
+</p><p style="margin-left:0px;">
+Email:  xiangnanhe at gmail dot com</a><br>
+</p></font><p><font size="+0">
+</font>
+</p></td>
+</tr>
+</tbody></table>
+
+<div style="margin-top:20px;">
+<p>
+<p>I am now a research fellow (post-doc) with <a href="http://www.comp.nus.edu.sg/~chuats/", target="_blank">Prof. Chua Tat-Seng</a> since April 2016. Prior to that, I did my Ph.D. with <a href="http://www.comp.nus.edu.sg/~kanmy/" target="_blank">Prof. Kan Min-Yen</a> from August 2011 to March 2016. My research interests span information retrieval (IR), machine learning (ML), natural language processing (NLP) and multi-media (MM). I serve as the PC member for the prestigious conferences including SIGIR, WWW and EMNLP.</p>
+
+<p>Currently, I am working on 1) developing online learning algorithms for recommender system, 2) enhancing matrix factorization methods by modeling missing data and 3) modeling user sequential behaviours with deep learning techniques, such as RNN, LSTM. </p>
+
+<p>Before coming to Singapore, I obtained my bachelor degree in Software Engineering Institute, East China Normal University(Shanghai, China) from 2007 to 2011. I was advised by <a href="http://faculty.ecnu.edu.cn/s/616/t/6635/main.jspy" target="_blank">Prof. Cheqing Jin</a> and <a href="http://faculty.ecnu.edu.cn/s/1818/main.jspy" target="_blank">Prof. Aoying Zhou </a>for my undergraduate research. In addition, I was an intern at Google Research, Microsoft and Accenture. 
+Here is my <a href="./files/CV_Xiangnan.pdf" target="_blank">CV</a>.</p>
+</div>
+
+<h2 style="CLEAR: both">Internships</h2>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="https://research.google.com/pubs/InformationRetrievalandtheWeb.html" target="_blank">Google Research</a></span> <br>
+	  Research Intern, Strategic Technology Group, supervised by <a href="https://www.cs.umd.edu/~bhargav/" target="_blank">Bhargav Kanagal</a> and <a href="https://scholar.google.com.sg/citations?user=yR-ugIoAAAAJ&hl=en" target="_blank">Steffen Rendle</a>.<br>
+	  Mountain View, United States &nbsp;&nbsp; Jun. 2015 - Sep. 2015</td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www.google.com/" target="_blank">Google Inc.</a></span> <br>
+	  Software Engineering Intern, Local Search Group, supervised by Thomas Sidoti and Sheng Zhang.<br>
+	  New York City, United States &nbsp;&nbsp; Jun. 2014 - Sep. 2014</td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www.microsoft.com.cn/" target="_blank">Microsoft Inc.</a></span> <br>
+	  Software Engineering Intern, Operating System Group. <br>
+	  Shanghai, China &nbsp;&nbsp; Sep. 2010 - Dec. 2011</td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="https://www.accenture.com" target="_blank">Accenture Inc.</a></span> <br>
+	  IT Consult Intern, Media Markt project. <br>
+	  Shanghai, China &nbsp;&nbsp; Jan. 2011 - Apr. 2011</td></tr></tbody></table>
+
+	  
+<div id="papers">
+<h2>Publications</h2>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/sigir16-eals-cm.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Fast Matrix Factorization for Online Recommendation with Implicit Feedback</span> 
+      <br><b>Xiangnan He</b>, Hanwang Zhang, Min-Yen Kan & Tat-Seng Chua
+	  <br>SIGIR 2016.&nbsp;&nbsp; (Accept rate: 18%) &nbsp;&nbsp; <a href="https://github.com/hexiangnan/sigir16-eals" target="_blank">Codes</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/sigir16-dcf-cm.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Discrete Collaborative Filtering</span> 
+      <br>Hanwang Zhang, Fumin Shen, Wei Liu, <b>Xiangnan He</b>, Huanbo Luan & Chua Tat-Seng
+	  <br>SIGIR 2016.&nbsp;&nbsp; (Accept rate: 18%) &nbsp;&nbsp; <a href="https://github.com/hanwangzhang/Discrete-Collaborative-Filtering" target="_blank">Codes</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/mm16-tocome1.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Context-aware Image Tweets Modelling and Recommendation</span> 
+      <br>Tao Chen, <b>Xiangnan He</b> & Min-Yen Kan
+	  <br>MM 2016.&nbsp;&nbsp; (Accept rate: 20%) &nbsp;&nbsp;
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/mm16-tocome2.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Shorter-is-Better: Venue Category Estimation from Micro-Video</span> 
+      <br>Jianglong Zhang, Liqiang Nie, Xiang Wang, <b>Xiangnan He</b>, Xianglin Huang & Tat-Seng Chua
+	  <br>MM 2016.&nbsp;&nbsp; (Accept rate: 20%) &nbsp;&nbsp;
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/cikm15-trirank-cr.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">TriRank: Review-aware Explainable Recommendation by Modeling Aspects</span> 
+      <br><b>Xiangnan He</b>, Tao Chen, Min-Yen Kan & Xiao Chen
+	  <br>CIKM 2015.&nbsp;&nbsp; (Accept rate: 18%) &nbsp;&nbsp; <a href="./papers/cikm15-trirank-slides.pdf" target="_blank">Slides</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="http://wing.comp.nus.edu.sg/publications/2015/AAAI15_Tao.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Relating an Image Tweet’s Text and Images</span> 
+      <br>Tao Chen, Hany M. SalahEldeen, <b>Xiangnan He</b>, Min-Yen Kan & Dongyuan Lu
+	  <br>AAAI 2015.&nbsp;&nbsp; (Accept rate: 26.7%)
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/sigir2014-he.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a> &nbsp;</a></td>
+    <td><span class="title">Predicting the Popularity of Web 2.0 Items Based on User Comments</span> 
+      <br><b>Xiangnan He</b>, Ming Gao, Min-Yen Kan, Yiqun Liu & Kazunari Sugiyama
+	  <br>SIGIR 2014.&nbsp;&nbsp; (Accept rate: 21%)&nbsp;&nbsp; <a href="./papers/sigir2014-he-slides.pdf" target="_blank">Slides</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/www2014-he.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Comment-based Multi-View Clustering of Web 2.0 Items</span> 
+      <br><b>Xiangnan He</b>, Min-Yen Kan, Peichu Xie & Xiao Chen
+	  <br>WWW 2014.&nbsp;&nbsp; (Accept rate: 12.9%) <a href="./papers/www2014-he-supplement.pdf" target="_blank">Supplement</a>&nbsp; <a href="./papers/www2014-he-slides.pdf" target="_blank">Slides</a>&nbsp; <a href="http://wing.comp.nus.edu.sg/downloads/multiview_clustering/" target="_blank">Codes</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="http://wing.comp.nus.edu.sg/~junping/docs/emnlp2013_defminer.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Mining Scientific Terms and their Definitions: A Study of the ACL Anthology</span> 
+      <br>Yiping Jin, Min-Yen Kan, Jun-Ping Ng & <b>Xiangnan He</b>
+	  <br>EMNLP 2013.&nbsp;&nbsp; (Accept rate: 27%) &nbsp;
+<a href="http://www.comp.nus.edu.sg/~kanmy/talks/poster_emnlp2013.pdf" target="_blank">
+ Poster</a>&nbsp;
+<a href="http://wing.comp.nus.edu.sg/downloads/term_definition_mining/" target="_blank">
+ Dataset</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/recording_how_provenance.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Recording How-Provenance on Probabilistic Databases</span> 
+      <br>Ming Gao, <b>Xiangnan He</b>, Cheqing Jin, Xiaoling Wang & Aoying Zhou
+	  <br>APWEB 2010. 
+	</td>
+  </tr>
+ </tbody>
+</table>
+</div>
+
+<h2 style="CLEAR: both;">Datasets</h2>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://wing.comp.nus.edu.sg/downloads/multiview_clustering/" target="_blank">Multi-View Clustering with User Comments</a></span> <br>
+	  The first public user comments dataset for multi-view clustering. The groundtruth labels are provided as the categories of items. The textual comments have been pre-processed, include stemming, removing stopwords .etc.<br>
+	  <a href="http://dl.acm.org/citation.cfm?id=2567975">WWW 2014 paper</a>.</td></tr></tbody></table>
+
+<h2 style="CLEAR: both;">Teaching Assistants</h2>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm" target="_blank">CS5228 Knowledge Discovery and Data Mining</a></span> <br>
+	2014/2015 Semester 1 
+     </td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www.comp.nus.edu.sg/~kanmy/courses/3245_2014/" target="_blank">CS3245 Information Retrieval</a></span> <br>
+	2013/2014 Semester 2 
+     </td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www.comp.nus.edu.sg/~xiangnan/cs1020_tutorial2.htm" target="_blank">CS3245 CS1020 Data Structure and Algorithms</a></span> <br>
+	2013/2014 Semester 1
+     </td></tr></tbody></table>
+
+<h2 style="CLEAR: both;">Useful Links</h2>
+<table><tbody>
+  <tr><td> <span class="title"><a href="./SoC Conference Ranking.htm" target="_blank">NUS SoC Conference Rankings</a></span> </td></tr>
+  <tr><td> <span class="title"><a href="./SoC Journal Ranking.htm" target="_blank">NUS SoC Journal Ranking</a></span> </td></tr>  
+  <tr><td> <span class="title"><a href="http://www.comp.nus.edu.sg/undergraduates/useful_course_schedule.html" target="_blank">NUS SoC Courses</a></span> </td></tr>    
+  <tr><td> <span class="title"><a href="http://mallet.cs.umass.edu/" target="_blank">Mallet (MAchine Learning for LanguagE Toolkit)</a></span> </td></tr>  
+  <tr><td> <span class="title"><a href="https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA" target="_blank">Machine Learning Reading List</a></span> </td></tr>    
+  <tr><td> <span class="title"><a href="https://github.com/robertsdionne/neural-network-papers" target="_blank">Deep Learning Reading List</a></span> </td></tr>    
+</tbody></table>
+
+</br>
+<div id="clustrmaps-widget"></div><script type="text/javascript">var _clustrmaps = {'url' : 'http://www.comp.nus.edu.sg/~xiangnan', 'user' : 1180881, 'server' : '3', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2015-10-13', 'lang' : 'en', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www3.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script><noscript><a href="http://www3.clustrmaps.com/user/3dc1204d1"><img src="http://www3.clustrmaps.com/stats/maps-no_clusters/www.comp.nus.edu.sg-~xiangnan-thumb.jpg" alt="Locations of visitors to this page" /></a></noscript>
+
+<p>Last update: July 04, 2016. Webpage template borrows from <a href="http://www0.cs.ucl.ac.uk/staff/w.zhang/">Weinan Zhang</a>.</p>
+
+</div>
+</div>
+
+
+</body></html>
