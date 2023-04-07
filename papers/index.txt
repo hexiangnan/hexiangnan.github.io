@@ -27,9 +27,8 @@
 <div id="content">
 
 <div id="news">
-<h2>News</h2><br>
+<h2>News</h2>
 <font size="3px">
-
 <b>6 April 2023</b><br>
 <span class="easylink">
 Four papers are accepted by <a href="https://sigir.org/sigir2023/", target="_blank">SIGIR 2023</a> on various topics of recsys, e.g., offline RL, OOD robustness, diffusion models, etc. 
@@ -606,7 +605,7 @@ We provide competitive salary, sufficient funding and student supports, and good
   <tr>
     <td class="left"><a href="./papers/cvpr23-TZSL.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
     <td><span class="title">Bi-directional Distribution Alignment for Transductive Zero Shot Learning</span> 
-      <br>Zhicai Wang, Yanbin Hao, Tingting Mu, Ouxiang Li, Shuo Wang & <b>Xiangnan He</b>*
+      <br> Zhicai Wang, Yanbin Hao, Tingting Mu, Ouxiang Li, Shuo Wang & <b>Xiangnan He</b>*
     <br>CVPR 2023 (Full) &nbsp;&nbsp; *Corresponding
   </td> 
   </tr>
@@ -653,7 +652,7 @@ We provide competitive salary, sufficient funding and student supports, and good
   <tbody>
   <tr>
     <td class="left"><a href="./papers/www23-adap.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
-    <td><span class="title">Adap-τ: Adaptively Modulating Embedding Magnitude for Recommendation</span> 
+    <td><span class="title">Adap-τ: Adpatively Modulating Embedding Magnitude for Recommendation</span> 
       <br>Jiawei Chen, Junkang Wu, Jiancan Wu, Xuezhi Cao, Sheng Zhou & <b>Xiangnan He</b>*
     <br>WWW 2023 (Full, Accept Rate: 19.2%) &nbsp;&nbsp; *Corresponding
   </td> 
@@ -713,7 +712,8 @@ We provide competitive salary, sufficient funding and student supports, and good
   <tbody>
   <tr>
     <td class="left"><a href="./papers/TNNLS23-L2D.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
-    <td><span class="title">Learning to Double-check Model Prediction from a Causal Perspective</span> 
+    <td><span class="title">Learning to Double-check Model Prediction from a
+Causal Perspective</span> 
       <br>Xun Deng, Fuli Feng, Xiang Wang, <b>Xiangnan He</b>, Hanwang Zhang & Tat-Seng Chua
     <br>IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2023) &nbsp;&nbsp; <a href="https://github.com/xiangtanshi/L2D" target="_blank">Codes</a>
   </td> 
@@ -727,7 +727,7 @@ We provide competitive salary, sufficient funding and student supports, and good
     <td class="left"><a href="./papers/tkde23-TIDE.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
     <td><span class="title">Popularity Bias Is Not Always Evil: Disentangling Benign and Harmful Bias for Recommendation</span> 
       <br>Zihao Zhao, Jiawei Chen, Sheng Zhou, <b>Xiangnan He</b>*, Xuezhi Cao, Fuzheng Zhang & Wei Wu<br>
-      IEEE Transactions on Knowledge and Data Engineering (TKDE 2023) &nbsp;&nbsp; *Corresponding
+      IEEE Transactions on Knowledge and Data Engineering (TKDE 2023) &nbsp;&nbsp; <a href="https://github.com/zzhUSTC2016/TIDE" target="_blank">Codes</a>&nbsp;&nbsp; *Corresponding
   </td> 
   </tr>
  </tbody>
@@ -763,7 +763,7 @@ We provide competitive salary, sufficient funding and student supports, and good
     <td class="left"><a href="tocome" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
     <td><span class="title">Inductive Lottery Ticket Learning for Graph Neural Networks</span> 
       <br>Yongduo Sui, Xiang Wang, Tianlong Chen, Meng Wang, & <b>Xiangnan He</b>* & Tat-Seng Chua
-    <br>Journal of Computer Science and Technology (JCST, major revision) &nbsp;&nbsp; <a href="tocome" target="_blank">Codes</a> &nbsp;&nbsp; *Corresponding 
+    <br>Journal of Computer Science and Technology (JCST) &nbsp;&nbsp; <a href="tocome" target="_blank">Codes</a> &nbsp;&nbsp; *Corresponding 
   </td> 
   </tr>
  </tbody>
@@ -2183,9 +2183,9 @@ We provide competitive salary, sufficient funding and student supports, and good
 </tbody></table>
 
 </br>
-<div id="clustrmaps-widget"></div> <a href="https://clustrmaps.com/site/1brkr" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=Mlk9zDVDm5abufRfZ6RdP8Dq1iuWOXuO6w46raalspg"></a>
+<div id="clustrmaps-widget"></div> <a href="https://clustrmaps.com/site/1ar45" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=pOxL65gH8wBpuXWGnAjJCae9JXXk5f34asoMtTSZRVA&cl=ffffff"></a>
 
-<p>Last update: 26 Jan, 2023. Webpage template borrows from <a href="http://wnzhang.net/">Weinan Zhang</a>.</p>
+<p>Last update: 7 April, 2023. Webpage template borrows from <a href="http://wnzhang.net/">Weinan Zhang</a>.</p>
 
 </div>
 </div>
